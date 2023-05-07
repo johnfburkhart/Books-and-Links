@@ -5,7 +5,7 @@
   + [Elements of Statistical learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12.pdf), Trevor Hastie, Robert Tibshirani, Jerome H. Friedman
   + [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home), Joe Blitzstein and Jessica Hwang
   + [Lecture Notes for Introductory Probability](https://www.stat.berkeley.edu/~aldous/134/gravner.pdf), Jank Gravner
- + ## Pure math
++ ## Pure math
   + [Inquiry-based Enumerative Combinatorics](https://math.depaul.edu/tpeter21/302Book.pdf), T. Kyle Petersen
   + [Polynomial Methods and Incidence Theory](http://faculty.baruch.cuny.edu/ASheffer/000book.pdf), Adam Scheffer
   + [Topology without tears](https://www.topologywithouttears.net/topbook.pdf), Sidney A. Morris
