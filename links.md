@@ -1,3 +1,5 @@
+## Some resources I've used. Most of these are freely available. Those that are not are worth buying and marked with an asterisk.
+
 # Links
 + ## Statistics and Probability Theory
   + [Elements of Statistical learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12.pdf), Trevor Hastie, Robert Tibshirani, Jerome H. Friedman
